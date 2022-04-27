@@ -48,7 +48,7 @@
     "@metamask/auto-changelog": "^2.4.0",
     "execa": "^4.1.0",
     "glob": "^7.1.7",
-    "semver": "^7.3.5"
+    "semver": "^7.3.6"
   },
   "devDependencies": {
     "@lavamoat/allow-scripts": "^1.0.6",
